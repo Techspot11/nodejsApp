@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image:  Techspot11 /nodejsApp 
+        image:  techspot11/nodejsapp:latest
         ports:
         - containerPort: 3000
